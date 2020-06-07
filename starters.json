@@ -1,0 +1,11 @@
+[
+  {
+    "start": "go",
+    "platform": "x86_64",
+    "language": "golang",
+    "author": "Samuel <sam618.xu@gmail.com>",
+    "description": "Classic go starter",
+    "repo": "https://github.com/wopal-cn/starter-store",
+    "official": "true"
+  }
+]
